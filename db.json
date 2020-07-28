@@ -1,4 +1,16 @@
-“data”: {
-    “type”: “text”,
-    “text”: “Hello World”
+{
+  “data”: {
+    “type”: “msg_options”,
+    “text”: “Choose an option”,
+    “options”: [
+      {
+        “text”: “Option A”,
+        “postback”: “flow_788224AF8006422BA5E587720DE3B252”
+      },
+      {
+        “text”: “Option B”,
+        “postback”: “flow_BBC5CE0C3CD94C2DA43FD6F1AE13737A”
+      }
+    ]
   }
+}
